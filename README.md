@@ -4,12 +4,15 @@ A clear and simple dashboard to show many charts, build using Python, Pandas and
 
 To run the code follow the steps:
 
-1. Create the virtual environment in Python. You can name it anything, here we'll use "myenv": `virtualenv myenv`
+1. Create the virtual environment in Python. You can name it anything, here we'll use "myenv": 
+`virtualenv myenv`
 
 2. Activate the virtual environment:
 
-- On Linux/Mac: `source myenv/bin/activate` 
-- On Windows: `myenv\Scripts\activate`
+- On Linux/Mac: 
+`source myenv/bin/activate` 
+- On Windows:
+`myenv\Scripts\activate`
 
 4. Your command prompt will now start with `(myenv)` indicating you are in the virtual environment.
 
@@ -18,8 +21,10 @@ To run the code follow the steps:
 
 6. To deactivate the virtual environment, run:
 
-- On Linux/Mac: `deactivate`
-- On Windows: `deactivate.bat` 
+- On Linux/Mac: 
+`deactivate`
+- On Windows: 
+`deactivate.bat` 
 
 Your command prompt will no longer have `(myenv)` 
 
